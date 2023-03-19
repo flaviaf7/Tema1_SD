@@ -1,0 +1,139 @@
+Testul 1 - N=1000, NMAX=1000
+Algoritmul mergeSortwrapper a sortat corect in 0.015621 secunde
+Algoritmul shellSort a sortat corect in 0.000000 secunde
+Algoritmul radixSort a sortat corect in 0.000000 secunde
+Algoritmul quickSort a sortat corect in 0.000000 secunde
+Algoritmul countingSort a sortat corect in 0.000000 secunde
+
+Testul 2 - N=1000, NMAX=10000
+Algoritmul mergeSortwrapper a sortat corect in 0.015619 secunde
+Algoritmul shellSort a sortat corect in 0.000000 secunde
+Algoritmul radixSort a sortat corect in 0.000000 secunde
+Algoritmul quickSort a sortat corect in 0.000000 secunde
+Algoritmul countingSort a sortat corect in 0.000000 secunde
+
+Testul 3 - N=1000, NMAX=100000
+Algoritmul mergeSortwrapper a sortat corect in 0.000000 secunde
+Algoritmul shellSort a sortat corect in 0.015621 secunde
+Algoritmul radixSort a sortat corect in 0.000000 secunde
+Algoritmul quickSort a sortat corect in 0.002507 secunde
+Algoritmul countingSort a sortat corect in 0.000000 secunde
+
+Testul 4 - N=1000, NMAX=1000000
+Algoritmul mergeSortwrapper a sortat corect in 0.000000 secunde
+Algoritmul shellSort a sortat corect in 0.000000 secunde
+Algoritmul radixSort a sortat corect in 0.013508 secunde
+Algoritmul quickSort a sortat corect in 0.000000 secunde
+Algoritmul countingSort a sortat corect in 0.062492 secunde
+
+Testul 5 - N=1000, NMAX=10000000
+Algoritmul mergeSortwrapper a sortat corect in 0.000000 secunde
+Algoritmul shellSort a sortat corect in 0.000000 secunde
+Algoritmul radixSort a sortat corect in 0.015619 secunde
+Algoritmul quickSort a sortat corect in 0.000000 secunde
+Algoritmul countingSort a sortat corect in 0.625746 secunde
+
+Testul 6 - N=10000, NMAX=1000
+Algoritmul mergeSortwrapper a sortat corect in 0.063955 secunde
+Algoritmul shellSort a sortat corect in 0.068328 secunde
+Algoritmul radixSort a sortat corect in 0.047389 secunde
+Algoritmul quickSort a sortat corect in 0.084918 secunde
+Algoritmul countingSort a sortat corect in 0.029441 secunde
+
+Testul 7 - N=10000, NMAX=10000
+Algoritmul mergeSortwrapper a sortat corect in 0.079305 secunde
+Algoritmul shellSort a sortat corect in 0.057844 secunde
+Algoritmul radixSort a sortat corect in 0.028441 secunde
+Algoritmul quickSort a sortat corect in 0.032911 secunde
+Algoritmul countingSort a sortat corect in 0.004987 secunde
+
+Testul 8 - N=10000, NMAX=100000
+Algoritmul mergeSortwrapper a sortat corect in 0.074980 secunde
+Algoritmul shellSort a sortat corect in 0.071810 secunde
+Algoritmul radixSort a sortat corect in 0.024418 secunde
+Algoritmul quickSort a sortat corect in 0.015006 secunde
+Algoritmul countingSort a sortat corect in 0.000000 secunde
+
+Testul 9 - N=10000, NMAX=1000000
+Algoritmul mergeSortwrapper a sortat corect in 0.067027 secunde
+Algoritmul shellSort a sortat corect in 0.042759 secunde
+Algoritmul radixSort a sortat corect in 0.031240 secunde
+Algoritmul quickSort a sortat corect in 0.040110 secunde
+Algoritmul countingSort a sortat corect in 0.050703 secunde
+
+Testul 10 - N=10000, NMAX=10000000
+Algoritmul mergeSortwrapper a sortat corect in 0.062888 secunde
+Algoritmul shellSort a sortat corect in 0.052654 secunde
+Algoritmul radixSort a sortat corect in 0.046385 secunde
+Algoritmul quickSort a sortat corect in 0.033909 secunde
+Algoritmul countingSort a sortat corect in 0.603296 secunde
+
+Testul 11 - N=100000, NMAX=1000
+Algoritmul mergeSortwrapper a sortat corect in 0.686672 secunde
+Algoritmul shellSort a sortat corect in 0.748202 secunde
+Algoritmul radixSort a sortat corect in 0.188256 secunde
+Algoritmul quickSort a sortat corect in 0.570253 secunde
+Algoritmul countingSort a sortat corect in 0.031639 secunde
+
+Testul 12 - N=100000, NMAX=10000
+Algoritmul mergeSortwrapper a sortat corect in 0.705825 secunde
+Algoritmul shellSort a sortat corect in 1.461146 secunde
+Algoritmul radixSort a sortat corect in 0.313731 secunde
+Algoritmul quickSort a sortat corect in 0.282485 secunde
+Algoritmul countingSort a sortat corect in 0.059373 secunde
+
+Testul 13 - N=100000, NMAX=100000
+Algoritmul mergeSortwrapper a sortat corect in 0.584553 secunde
+Algoritmul shellSort a sortat corect in 1.082274 secunde
+Algoritmul radixSort a sortat corect in 0.349318 secunde
+Algoritmul quickSort a sortat corect in 0.309846 secunde
+Algoritmul countingSort a sortat corect in 0.030537 secunde
+
+Testul 14 - N=100000, NMAX=1000000
+Algoritmul mergeSortwrapper a sortat corect in 0.644547 secunde
+Algoritmul shellSort a sortat corect in 0.935138 secunde
+Algoritmul radixSort a sortat corect in 0.459207 secunde
+Algoritmul quickSort a sortat corect in 0.262135 secunde
+Algoritmul countingSort a sortat corect in 0.082857 secunde
+
+Testul 15 - N=100000, NMAX=10000000
+Algoritmul mergeSortwrapper a sortat corect in 0.546913 secunde
+Algoritmul shellSort a sortat corect in 0.813534 secunde
+Algoritmul radixSort a sortat corect in 0.432333 secunde
+Algoritmul quickSort a sortat corect in 0.254946 secunde
+Algoritmul countingSort a sortat corect in 0.550127 secunde
+
+Testul 16 - N=1000000, NMAX=1000
+Algoritmul mergeSortwrapper a sortat corect in 6.991825 secunde
+Algoritmul shellSort a sortat corect in 11.023381 secunde
+Algoritmul radixSort a sortat corect in 2.506854 secunde
+Algoritmul quickSort a sortat corect in 0.000000 secunde
+Algoritmul countingSort a sortat corect in 0.268581 secunde
+
+Testul 17 - N=1000000, NMAX=10000
+Algoritmul mergeSortwrapper a sortat corect in 7.170533 secunde
+Algoritmul shellSort a sortat corect in 12.658726 secunde
+Algoritmul radixSort a sortat corect in 4.296333 secunde
+Algoritmul quickSort a sortat corect in 0.000000 secunde
+Algoritmul countingSort a sortat corect in 0.196918 secunde
+
+Testul 18 - N=1000000, NMAX=100000
+Algoritmul mergeSortwrapper a sortat corect in 6.493041 secunde
+Algoritmul shellSort a sortat corect in 13.944388 secunde
+Algoritmul radixSort a sortat corect in 4.308185 secunde
+Algoritmul quickSort a sortat corect in 0.000000 secunde
+Algoritmul countingSort a sortat corect in 0.392124 secunde
+
+Testul 19 - N=1000000, NMAX=1000000
+Algoritmul mergeSortwrapper a sortat corect in 6.596596 secunde
+Algoritmul shellSort a sortat corect in 15.751997 secunde
+Algoritmul radixSort a sortat corect in 4.615091 secunde
+Algoritmul quickSort a sortat corect in 0.000000 secunde
+Algoritmul countingSort a sortat corect in 0.340002 secunde
+
+Testul 20 - N=1000000, NMAX=10000000
+Algoritmul mergeSortwrapper a sortat corect in 7.271448 secunde
+Algoritmul shellSort a sortat corect in 14.247892 secunde
+Algoritmul radixSort a sortat corect in 4.795223 secunde
+Algoritmul quickSort a sortat corect in 0.000000 secunde
+Algoritmul countingSort a sortat corect in 0.914207 secunde
